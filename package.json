@@ -15,11 +15,11 @@
 		"url": "git://github.com/j201/meta-marked.git"
 	},
 	"dependencies": {
-		"js-yaml": "^3.14.0",
-		"marked": "^1.2.4"
+		"js-yaml": "^4.1.0",
+		"marked": "^2.0.7"
 	},
 	"devDependencies": {
-		"tape": "^5.0.1"
+		"tape": "^5.2.2"
 	},
 	"scripts": {
 		"test": "node ./test/test"
